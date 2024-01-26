@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jugglingdev/react-color-switcher/static/css/main.05f1ad65.css",
+    "main.js": "/jugglingdev/react-color-switcher/static/js/main.0665b091.js",
+    "static/js/787.5998dcb9.chunk.js": "/jugglingdev/react-color-switcher/static/js/787.5998dcb9.chunk.js",
+    "index.html": "/jugglingdev/react-color-switcher/index.html",
+    "main.05f1ad65.css.map": "/jugglingdev/react-color-switcher/static/css/main.05f1ad65.css.map",
+    "main.0665b091.js.map": "/jugglingdev/react-color-switcher/static/js/main.0665b091.js.map",
+    "787.5998dcb9.chunk.js.map": "/jugglingdev/react-color-switcher/static/js/787.5998dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f1ad65.css",
+    "static/js/main.0665b091.js"
+  ]
+}
