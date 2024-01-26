@@ -1,7 +1,7 @@
 {
   "name": "react-color-switcher",
   "version": "0.1.0",
-  "homepage": "https://github.com/jugglingdev/react-color-switcher",
+  "homepage": "https://jugglingdev.github.io/react-color-switcher/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
